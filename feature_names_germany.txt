@@ -1,0 +1,6 @@
+km_driven
+fuel
+transmission
+owner
+horse_power
+registration_year
